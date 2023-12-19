@@ -1,0 +1,25 @@
+.list-item {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  margin: 20px;
+}
+.image {
+  height: 100px;
+  width: 150px;
+}
+.p2 {
+  color: #3b82f6;
+}
+.image-name-con {
+  display: flex;
+}
+.time-delte-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 150px;
+}
+.name-genre-con {
+  margin-left: 20px;
+}
